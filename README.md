@@ -9,5 +9,5 @@ A day planner created for practice with third-party APIs (jquery and Momentjs).
 Type in notes for each hour of the day, and click the blue buttons to the right of each one to save them. 
 
 # Resources
-Made with [Bootstrap](https://getbootstrap.com/)
+Made with [Bootstrap](https://getbootstrap.com/), [jquery](https://jquery.com/), and [Moment.js](https://momentjs.com/).<br>
 HTML and additional CSS provided by the University of Minnesota Coding Boot Camp. 
